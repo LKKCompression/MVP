@@ -29,8 +29,9 @@ AI wearable for real-time blood clot detection
 - [YC Application](INSERT_YC_LINK)
 
 ## Next Steps
-- Clinical validation testing
-- Scaling production with Jabil
-- FDA regulatory submission
+- Expand consumer sales and wellness adoption
+- Conduct clinical validation testing for medical use
+- Scale production with Jabil for broader distribution
+- Prepare and submit for FDA regulatory approval
 
-Developed for YC S25 | LKK Compression Team
+Developed for YC S25 | Vaskular Software Team
