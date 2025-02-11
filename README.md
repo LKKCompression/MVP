@@ -1,5 +1,5 @@
-# LKK Compression  
-Smart compression socks that detect early blood clot risks.
+# Vaskular
+AI wearable for real-time blood clot detection
 
 ## Features
 - Real-time pressure & circulation monitoring
