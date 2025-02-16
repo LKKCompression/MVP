@@ -23,10 +23,6 @@ AI wearable for real-time blood clot detection
 - `Prototype_Images/` → Hardware demo pictures
 - `Demo_Video.mp4` → Functional prototype showcase
 
-## Links
-- [Demo Video](INSERT_YOUR_VIDEO_LINK)
-- [GitHub Repository](INSERT_GITHUB_REPO_LINK)
-- [YC Application](INSERT_YC_LINK)
 
 ## Next Steps
 - Expand consumer sales and wellness adoption
